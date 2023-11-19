@@ -10,6 +10,7 @@
 * 18.5 <= BMI < 24.9: "Normalna waga"
 * 25 <= BMI < 29.9: "Nadwaga"
 * BMI >= 30: "Otyłość"
+### Wideo https://www.youtube.com/watch?v=BPJIUXJ38Nc
 
 ## Program ma się kończyć wpisująć w kosoli "koniec"
 
